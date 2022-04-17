@@ -13,6 +13,12 @@ html {
     color: rgb(26, 53, 75);
 }
 
+.form-container {
+    width: 70%;
+    text-align: center;
+    margin: 2rem auto;
+}
+
 .movie-card {
     margin-top: 5rem;
     height: 800px;
